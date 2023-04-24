@@ -5,5 +5,8 @@
     "outline.showTypeParameters": false,
     "breadcrumbs.showTypeParameters": false,
     "typescript.inlayHints.parameterNames.suppressWhenArgumentMatchesName": false,
-    "javascript.inlayHints.parameterNames.suppressWhenArgumentMatchesName": false
+    "javascript.inlayHints.parameterNames.suppressWhenArgumentMatchesName": false,
+    "css.hover.documentation": false,
+    "less.hover.documentation": false,
+    "less.hover.references": false
 }
