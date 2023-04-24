@@ -1,0 +1,9 @@
+{
+    "editor.parameterHints.enabled": false,
+    "editor.parameterHints.cycle": false,
+    "editor.suggest.showTypeParameters": false,
+    "outline.showTypeParameters": false,
+    "breadcrumbs.showTypeParameters": false,
+    "typescript.inlayHints.parameterNames.suppressWhenArgumentMatchesName": false,
+    "javascript.inlayHints.parameterNames.suppressWhenArgumentMatchesName": false
+}
